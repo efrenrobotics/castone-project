@@ -24,23 +24,23 @@ We want to aid emerging adults in the kitchen as it’s difficult to decide what
 
 Add a list of your groups' brainstormed features list
 
-Core Features
-  Input form that stores ingredients into a list
-    ingredientsList = [”tomatoes”, “garlic”, “spaghetti”, “bacon”]
-  Make an OpenAI GPT API request
-    Prompt - “Make a recipe with the following ingredients” + ingredientsList
-  Display a recipe component and store recipe into user recipes table
-  User can navigate to past recipes
-  User authentication, register and login, to view the users recipes  
-  Create a recipe by ‘cuisine’ category
+### Core Features
+  * Input form that stores ingredients into a list
+    * ingredientsList = [”tomatoes”, “garlic”, “spaghetti”, “bacon”]
+  * Make an OpenAI GPT API request
+    * Prompt - “Make a recipe with the following ingredients” + ingredientsList
+  * Display a recipe component and store recipe into user recipes table
+  * User can navigate to past recipes
+  * User authentication, register and login, to view the users recipes  
+  * Create a recipe by ‘cuisine’ category
 
-Stretch Features
-  Friend Network
-    Add comments
-    feed with their created recipes
-  Include health and diet information
-    pull from a recipe book api
-  Map to show where food is from
+### Stretch Features
+  * Friend Network
+    * Add comments
+    * feed with their created recipes
+  * Include health and diet information
+     * pull from a recipe book api
+  * Map to show where food is from
 
 ## Related Work
 
