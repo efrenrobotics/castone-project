@@ -26,47 +26,59 @@ We want to aid emerging adults in the kitchen as it’s difficult to decide what
 
 ### User Personas
 
-Tim Hutchins ( User )
-“I always come back from studying and never know what to cook”
+#### User Persona - Tim Hutchins
 
-User Demographic
-Age: 21
-Location: Los Angeles, California
-Occupation: Student/Intern
-Income: ~$25,000
-Status: Single
+"I always come back from studying and never know what to cook"
 
-Tim goes to classes, enjoys working out and in his spare time likes painting
+**User Demographic**
 
-Goals :
-Spend less money eating out
-Cook more often
-Learn new recipes
-Experiment new cuisines
+- Age: 21
+- Location: Los Angeles, California
+- Occupation: Student/Intern
+- Income: ~$25,000
+- Status: Single
 
-Frustrations:
-Improve health through a better diet
+**Background**
 
-Amanda Walker ( User )
-“ I am always scrambling between my job, cleaning the house and feeding the family”
+- Tim goes to classes, enjoys working out, and in his spare time likes painting.
 
-User Demographic
-Age: 42
-Location: Dallas, Texas
-Occupation: Retail Worker/Housewife
-Income: ~$75,000 (Joint Income)
-Status: Married
+**Goals**
 
-Amanda works a nine-to-five Monday through Friday and she needs to be efficient when going grocery shopping.
+- Spend less money eating out
+- Cook more often
+- Learn new recipes
+- Experiment with new cuisines
 
-Goals:
-Always feed my family
-I want to organize my grocery shopping
-Keep track of my favorite recipes
+**Frustrations**
 
-Frustrations :
-I often forget what I want to buy when I go to the grocery store
-When looking at recipes, I know that I have some ingredients but I don’t have an easy way of tracking which ingredients im missing
+- Improve health through a better diet
+
+#### User Persona - Amanda Walker
+
+"I am always scrambling between my job, cleaning the house, and feeding the family"
+
+**User Demographic**
+
+- Age: 42
+- Location: Dallas, Texas
+- Occupation: Retail Worker/Housewife
+- Income: ~$75,000 (Joint Income)
+- Status: Married
+
+**Background**
+
+- Amanda works a nine-to-five Monday through Friday and she needs to be efficient when going grocery shopping.
+
+**Goals**
+
+- Always feed my family
+- Organize my grocery shopping
+- Keep track of my favorite recipes
+
+**Frustrations**
+
+- Often forget what I want to buy when I go to the grocery store
+- No easy way to track which ingredients I'm missing when looking at recipes
 
 ## User Stories
 
