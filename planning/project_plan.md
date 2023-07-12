@@ -105,9 +105,9 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 ### All Users Recipes
 
 Recipe Categories
-| Catch All | American | Mexican | Indian | Italian | Japanese |
-| -------- | -------- | -------- | ------ | ------- | -------- |
-| [] | [] | [] | [] | [] | [] |
+| Catch All | American | Mexican | Indian | Italian | Japanese | ... |
+| -------- | -------- | -------- | ------ | ------- | -------- | --- |
+| [] | [] | [] | [] | [] | [] | [] |
 
 ## Endpoints
 
