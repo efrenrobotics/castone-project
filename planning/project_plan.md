@@ -169,13 +169,13 @@ Recipe Categories
 
 ## Endpoints
 
-User Routes
+### User Routes
 
 POST /api/user/favorite_recipe: Create entry for current recipe in the Unique User Recipe Table - Favorite Recipes.
 
 GET /api/user/prev_recipes: Read the first five entries from the Unique User Recipe Table - Prev Recipes.
 
-Recipe Routes
+### Recipe Routes
 
 POST /api/recipes/generate_recipe/:cuisine:
 If :cuisine is NULL, create a recipe with the following ingredients ingredients array and output it in JSON format.
@@ -184,7 +184,8 @@ Authentication Routes
 
 POST /api/auth/register: Create a new user entry and add it to the users table.
 
-Authentication and Security
+### Authentication and Security
+
 Error handling on erroneous input.
 POST /api/auth/login: Read user entry from the users table.
 
