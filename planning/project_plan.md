@@ -98,17 +98,16 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 ### Unique User Table
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1    | Row 1    | Row 1    |
-| Row 2    | Row 2    | Row 2    |
+| Unique User Id | Previous Recipes        | Favorite Recipes         |
+| -------------- | ----------------------- | ------------------------ |
+| 1              | list of 10 prev recipes | list of favorite recipes |
 
 ### All Users Recipes
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1    | Row 1    | Row 1    |
-| Row 2    | Row 2    | Row 2    |
+Recipe Categories
+| Catch All | American | Mexican | Indian | Italian | Japanese |
+| -------- | -------- | -------- | ------ | ------- | -------- |
+| [] | [] | [] | [] | [] | [] |
 
 ## Endpoints
 
